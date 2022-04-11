@@ -1,0 +1,8 @@
+{
+	"email": {
+	  "from": "example@gmail.com",
+	  "smtpPassword": "example@gmail.com",
+	  "mailserver": "smtp.example.com",
+	  "mailport": "25"
+	}
+  }
