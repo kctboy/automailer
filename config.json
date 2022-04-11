@@ -1,0 +1,9 @@
+{
+	"email": {
+	  "from": "stb@dds.nl",
+	  "to": "bosboomhut@gmail.com",
+	  "smtpPassword": "#stb@dds#",
+	  "mailserver": "smtp.dds.nl",
+	  "mailport": "25"
+	}
+  }
